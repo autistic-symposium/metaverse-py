@@ -1,4 +1,4 @@
-# 💾✨ Inner Figures in the Metaverse
+# 💾✨ Hidden Figures from the Metaverse
 
 An artistic [steganography](https://en.wikipedia.org/wiki/Steganography) proof-of-concept.
 
