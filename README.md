@@ -6,7 +6,7 @@ An artistic [steganography](https://en.wikipedia.org/wiki/Steganography) proof-o
 
 To run this app:
 
-1. Install the depedencies (hopefully in a venv)
+1. Install the dependencies (hopefully in a venv)
 2. Add the background and foreground images to their respective dirs.
 3. Edit the constants in `main.py`
 4. Run `main.py`
