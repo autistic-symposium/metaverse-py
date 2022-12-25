@@ -1,10 +1,14 @@
-# 💾✨ Hidden Figures from the Metaverse
+# 💾🌌 "hidden figures" from the metaverse
 
 <br>
 <br>
 
 
-An artistic [steganography](https://en.wikipedia.org/wiki/Steganography) proof-of-concept built with Python + Hubble Space Telescope images.
+### a quick-and-dirty [steganography](https://en.wikipedia.org/wiki/Steganography) proof-of-concept using images from the Hubble Space Telescope.
+
+<br>
+
+#### note: i wrote this in 1h and on a terrible text editor - the code is messy and far from being "production" code. if you would like to evaluate my abilities in writing beautiful production code, please check any other repo in this lab. but the math is pretty tho 😇.
 
 <br>
 <br>
@@ -20,25 +24,16 @@ An artistic [steganography](https://en.wikipedia.org/wiki/Steganography) proof-o
 
 ----
 
-## Running
+## running your own images
 
 <br>
 
 
-1. Install the dependencies (hopefully in a venv)
-2. Add the background and foreground images to their respective dirs.
-3. Edit the constants in `main.py`
-4. Run `main.py`
+1. install `pipenv install`
+2. add background and foreground images to their respective dirs.
+3. edit the constants in `inner.py`
+4. run `inner.py`
 
 <br>
 <br>
 
-----
-
-## Notes
-
-<br>
-
-*This is not production code 🤷🏻‍♀️*
-
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
