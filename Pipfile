@@ -9,6 +9,8 @@ ipdb = "*"
 
 [packages]
 Pillow = "*"
+python-dotenv = "*"
+codecs = "*"
 
 [requires]
 python_version = "3.6"
