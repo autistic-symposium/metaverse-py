@@ -5,6 +5,15 @@
 
 #### a quick-and-dirty [steganography](https://en.wikipedia.org/wiki/Steganography) proof-of-concept using images from the Hubble Space Telescope.
 
+
+<br>
+
+> **steganography** is the practice of hiding information and it has been around for centuries. 
+one of the most popular techniques is **'least significant bit (LSB) steganography**, when the information hider embeds the secret information in the least significant bits of a media file.
+
+
+
+
 <br>
 
 
