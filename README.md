@@ -57,3 +57,15 @@ vim .env
 <br>
 
 enjoy!
+
+<br>
+
+---
+
+### other interesting steganography projects
+
+<br>
+
+* **[skin wallet](https://github.com/samjhill/skin-wallet)**
+* **[audio stego](https://github.com/danielcardeenas/AudioStego)**
+* **[youtube stego](https://github.com/dzhang314/YouTubeDrive)**
