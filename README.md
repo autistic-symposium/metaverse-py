@@ -2,7 +2,7 @@
 
 <br>
 
-#### ⬛️ a *quick-and-dirty* [steganography](https://en.wikipedia.org/wiki/Steganography) proof-of-concept using images from the hubble space telescope
+#### ⬛️ a *quick-and-dirty* [steganography](https://github.com/autistic-symposium/sec-pentesting-toolkit/tree/master/Steganography) proof-of-concept using images from the hubble space telescope
 #### ⬛️ you should be able to see a hidden image when you shift the focal point of your eyes ;) (with a little practice, it becomes easy!)
 
 <br>
